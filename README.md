@@ -1,1 +1,1 @@
-# SOCKETS-RC
+This is a sender reciever problems in networks made with socket programming. The program creates a server and allows clients to connect to it and send messages which saves on the server and can be fetched by any client connected to the server and other clients can ask for acknowledgement
